@@ -1,5 +1,5 @@
-TAR = main
-OBJ = main.o
+TAR = ../cquptnc
+OBJ = main.o function.o
 CC := gcc
 RMRF := del
 
