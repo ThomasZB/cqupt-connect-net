@@ -16,6 +16,7 @@ int main(int argc, char *argv[])
             /* 连接失败显示帮助信息 */
             HelpInfo();
         }
+        return 0;
         
     }
     /* 有参数传入，进行判断和操作 */
